@@ -1,0 +1,24 @@
+SUBLIME TEXT 3 DARK SIDEBAR
+
+How to install:
+
+1. Open Sublime Text 3 and go to Preferences -> Browse Packages.
+3. Copy the Theme - Javiertic folder into the Packages folder.
+4. In ST3 go to Preferences -> Setting - User and paste the following line of code:
+	
+	"theme": "Javiertic.sublime-theme" 
+
+
+5. Restart ST3 and you're done.
+
+----------------------------------------------------------------------------------------
+
+Como instalar:
+
+1. Inicia Sublime Text 3 y ve al menú Preferences -> Browse Packages.
+3. Copia la carpeta Theme - Javiertic dentro de la carpeta Packages.
+4. En ST3 ve a Preferences -> Setting - User y pega la siguiente línea de código:
+
+	"theme": "Javiertic.sublime-theme"
+
+5. Reinicia ST3 y listo.
