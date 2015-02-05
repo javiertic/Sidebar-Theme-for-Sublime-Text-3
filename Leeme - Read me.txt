@@ -1,4 +1,6 @@
-SUBLIME TEXT 3 DARK SIDEBAR
+SUBLIME TEXT 3 Javiertic Dark Sidebar Theme (Based in Cobalt2 theme)
+
+I recommended using with Sunburst theme. 
 
 How to install:
 
@@ -12,6 +14,8 @@ How to install:
 5. Restart ST3 and you're done.
 
 ----------------------------------------------------------------------------------------
+
+Recomiendo usarlo en combinación con el tema Sunburst.
 
 Como instalar:
 
